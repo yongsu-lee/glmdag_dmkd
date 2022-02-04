@@ -11,8 +11,8 @@ Codes have been tested under
 -   macOS 12.2 on both Intel and M1 chip
 -   Windows 10 (Version 20H2)
 -   In order to compile C++ scripts, either GNU Fortran (macOS) or
-    Rtools (Windows) should be available in your system. Check the
-    details on .
+    Rtools (Windows) should be available in your system. (Check the
+    details on <https://cloud.r-project.org>)
 
 ## Pre-requisite
 
