@@ -1,6 +1,6 @@
-**README** for Reproducing Tables and Figures in **Learning sparse
+**README** for Reproducing Tables and Figures in ‘Learning sparse
 directed acyclic graphs with mixed data-types nodes based on generalized
-linear models**[3]
+linear models’[3]
 ================
 by **Yongsu Lee[1] and Chunming Zhang[2]**
 
